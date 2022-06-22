@@ -1,4 +1,4 @@
-# 0.4: new note
+# 0.4: New note
 
 ## Exercise
 
