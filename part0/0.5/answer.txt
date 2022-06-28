@@ -19,15 +19,3 @@ note over browser:
 browser executes the event handler
 that renders notes to display
 end note
-
-note over browser:
-user writes a note to the input 
-and clicks save button
-end note
-
-browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
-
-note over browser:
-browser updates the local 
-notes list
-end note
