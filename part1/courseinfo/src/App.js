@@ -34,6 +34,14 @@ const Header = (props) => {
   )
 }
 
+const Part = (props) => {
+  return(
+       <p>
+        {props.part} {props.exercises}
+      </p>
+    )
+}
+
 const Content = (props) => {
   return (
     <div>
